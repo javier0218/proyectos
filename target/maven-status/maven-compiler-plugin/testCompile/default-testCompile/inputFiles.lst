@@ -1,3 +1,11 @@
 C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\runner\TestRunner.java
-C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\stepDefinition\Login.java
-C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\stepDefinition\Turno.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\pageobjects\LoginPage.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\helpers\DataHelperMHO.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\pageobjects\BaseClass.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\pageobjects\TurnPage.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\stepDefinition\Hooks.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\stepDefinition\LoginSteps.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\modules\LoginInAction.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\pageobjects\HomePage.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\stepDefinition\TurnoSteps.java
+C:\Users\jpizarro\workspace\regresionCucumberTests_MHO\src\test\java\modules\TurnActions.java

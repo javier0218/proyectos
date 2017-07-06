@@ -1,7 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.839 s <<< FAILURE! - in runner.TestRunner
-initializationError(runner.TestRunner)  Time elapsed: 0.018 s  <<< ERROR!
-cucumber.runtime.DuplicateStepDefinitionException: Duplicate step definitions in stepDefinition.Login.open_browser_and_start_MHO() in file:/C:/Users/jpizarro/workspace/regresionCucumberTests_MHO/target/test-classes/ and stepDefinition.Turno.IngresarMHO() in file:/C:/Users/jpizarro/workspace/regresionCucumberTests_MHO/target/test-classes/
-
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 113.745 s - in runner.TestRunner
